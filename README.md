@@ -1,6 +1,6 @@
 # CodeRain
 
-* A simple recreation to the Digital Rain sequence from Matrix. 
+* A simple recreation to the Digital Rain sequence, is a famous visual effect from the Matrix movie trilogy. 
 
 # Example
 
