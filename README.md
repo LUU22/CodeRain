@@ -24,7 +24,7 @@
 
 # Inspiration
 
-* Emily Xie: https://www.youtube.com/watch?v=S1TQCi9axzg
+* Tutorial by Emily Xie: https://www.youtube.com/watch?v=S1TQCi9axzg
 
 # Author 
 
