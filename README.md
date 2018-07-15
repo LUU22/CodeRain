@@ -22,9 +22,9 @@
 
 ![Alt text](https://github.com/LUU22/CodeRain/blob/master/matrix.png)
 
-# Inspiration
+# Deployment
 
-* Tutorial by Emily Xie: https://www.youtube.com/watch?v=S1TQCi9axzg
+Do not need to deploy this project on a live system
 
 # Author 
 
@@ -33,3 +33,7 @@
 # License
 
 * This project is licensed under the HTML and Python License
+
+# Acknolegements
+
+* Inspiration: Tutorial by Emily Xie: https://www.youtube.com/watch?v=S1TQCi9axzg
